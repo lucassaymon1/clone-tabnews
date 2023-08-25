@@ -15,12 +15,12 @@ function Ideas() {
         <p>
           {"-->"} Tudo isso será feito com o propósito de espalhar conhecimento
           útil sobre jogos, unindo comunidades com um interesse mútuo, ajudando
-          jogadores novos e levantando discursões relevantes
+          jogadores novos e levantando discursões relevantes.
         </p>
         <p>
           {"-->"} Estará fora dos interesses da plataforma promover discursões
           sobre questões delicadas ou provocativas, que incentivem agressividade
-          entre os usuários
+          entre os usuários.
         </p>
       </main>
     </div>
